@@ -1,0 +1,12 @@
+C:\Users\borac\.source\repos\Server\Server\bin\Release\netcoreapp3.1\Server.exe
+C:\Users\borac\.source\repos\Server\Server\bin\Release\netcoreapp3.1\Server.deps.json
+C:\Users\borac\.source\repos\Server\Server\bin\Release\netcoreapp3.1\Server.runtimeconfig.json
+C:\Users\borac\.source\repos\Server\Server\bin\Release\netcoreapp3.1\Server.runtimeconfig.dev.json
+C:\Users\borac\.source\repos\Server\Server\bin\Release\netcoreapp3.1\Server.dll
+C:\Users\borac\.source\repos\Server\Server\bin\Release\netcoreapp3.1\Server.pdb
+C:\Users\borac\.source\repos\Server\Server\obj\Release\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+C:\Users\borac\.source\repos\Server\Server\obj\Release\netcoreapp3.1\Server.AssemblyInfo.cs
+C:\Users\borac\.source\repos\Server\Server\obj\Release\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+C:\Users\borac\.source\repos\Server\Server\obj\Release\netcoreapp3.1\Server.dll
+C:\Users\borac\.source\repos\Server\Server\obj\Release\netcoreapp3.1\Server.pdb
+C:\Users\borac\.source\repos\Server\Server\obj\Release\netcoreapp3.1\Server.genruntimeconfig.cache
